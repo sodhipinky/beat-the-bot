@@ -1,0 +1,6 @@
+{
+  "name": "Beat the Bot",
+  "description": "An intense reflex and tactical arcade duel where you race to overload the mainframe before an adaptive computer bot outplays you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
